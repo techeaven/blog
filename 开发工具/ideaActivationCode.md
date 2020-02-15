@@ -11,6 +11,5 @@
 * 取关永久拉黑，激活码失效别来找我
 
 **关注公众号"众享周知"，回复 idea 获取激活码，激活码适用于jetbrains全家桶，包括pycharm、webstorm、golang、idea等等**
-<<<<<<< HEAD
-![8.jpg](../images/QRcode.jpg)
+![QRcode.jpg](../images/QRcode.jpg)
 ---------------------------------------------------------------------------------
